@@ -1,0 +1,7 @@
+﻿  lab4_0.cpp
+c:\users\vanya\source\repos\lab4_0\lab4_0\lab4_0.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vanya\source\repos\lab4_0\lab4_0\lab4_0.cpp(79): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\users\vanya\source\repos\lab4_0\lab4_0\lab4_0.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vanya\source\repos\lab4_0\lab4_0\lab4_0.cpp(81): warning C4715: Perform: значение возвращается не при всех путях выполнения
+c:\users\vanya\source\repos\lab4_0\lab4_0\lab4_0.cpp(109): warning C4715: prioritet: значение возвращается не при всех путях выполнения
+  lab4_0.vcxproj -> C:\Users\Vanya\Source\Repos\lab4_0\Debug\lab4_0.exe
